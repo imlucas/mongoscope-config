@@ -1,6 +1,6 @@
 {
   "name": "mongoscope-config",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Thin wrapper around nconf, validation and defaults",
   "author": "Lucas Hrabovsky <hrabovsky.lucas@gmail.com> (http://imlucas.com)",
   "license": "MIT",
